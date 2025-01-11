@@ -81,11 +81,13 @@ nytimes-articles/
 ├── public/
 ├── src/
 │   ├── components/
+│   │   ├──__tests__/
+│   │      ├── ArticleDetail.test.js
+│   │      ├── ArticleList.test.js
 │   │   ├── ArticleDetail.js
 │   │   ├── ArticleList.js
 │   ├── __tests__/
 │   │   ├── App.test.js
-│   │   ├── ArticleList.test.js
 │   ├── App.js
 │   ├── index.js
 │   ├── App.css
